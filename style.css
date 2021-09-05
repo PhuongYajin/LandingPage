@@ -14,11 +14,11 @@ body {
     position: relative;
 }
 
-#navbar li {
+#nav-bar li {
     list-style: none;
 }
 
-#navbar a {
+#nav-bar a {
     color: #000;
     text-decoration: none;
 }
@@ -52,7 +52,7 @@ body {
     background-color: #eee;
 }
 
-@media(max-width:600px) {
+@media(max-width:650px) {
     #header {
         flex-wrap: wrap;
     }
